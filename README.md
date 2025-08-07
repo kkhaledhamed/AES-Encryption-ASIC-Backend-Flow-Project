@@ -119,7 +119,7 @@ AES-128 is a **symmetric block cipher**:
 | Utilization         | 🔼 Highest    | Low                  | Medium (33%)     |
 | Timing Closure      | ✅ Met        | ✅ Met               | ❌ Violated      |
 | GDSII Export        | ✅            | ✅                   | ✅               |
-| DRC Violations      | 0             | 0                    | 980              |
+| DRC Violations      | 0             | 0                    | 0                |
 
 ---
 
