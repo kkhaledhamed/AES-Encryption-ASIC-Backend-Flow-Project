@@ -153,7 +153,6 @@ AES-128 is a **symmetric block cipher**:
 
 - GDSII Layout
 - Power Grid
-- Logic Cell Usage (NAND2_X1)
 - STA Reports
 - IR Drop Maps
 - Timing Paths (reg2out, in2reg)
