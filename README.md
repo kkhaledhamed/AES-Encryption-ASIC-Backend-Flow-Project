@@ -3,7 +3,7 @@
 **ADI Digital IC Design Internship Assignment**  
 Under the supervision of **Eng. Mohamed Ewais**  
 📅 August 2025  
-🧑‍🤝‍🧑 Team D: Khaled Mohamed, Galal Mohamed, Mohamed Abdel-Hay, Youssef Ahmed, Nadim Abdelrahman and me Khaled A. Hamed
+🧑‍🤝‍🧑 Team D: Khaled Mohamed, Galal Mohamed, Mohamed Abdel-Hay, Youssef Hammad, Nadim Abdelrahman and me Khaled A. Hamed
 
 ---
 
@@ -175,7 +175,7 @@ AES-128 is a **symmetric block cipher**:
 
 Special thanks to **Eng. Mohamed Ewais** for mentoring and guidance throughout this internship.  
 A heartfelt thank you to my amazing teammates:  
-**Galal Mohamed**, **Mohamed Abdel-Hay**, **Youssef Ahmed**, **Nadim Abdelrahman**, and **Khaled Mohamed** — your teamwork made this possible!
+**Galal Mohamed**, **Mohamed Abdel-Hay**, **Youssef Hammad**, **Nadim Abdelrahman**, and **Khaled Mohamed** — your teamwork made this possible!
 
 ---
 
