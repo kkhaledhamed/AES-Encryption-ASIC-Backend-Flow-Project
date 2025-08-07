@@ -1,0 +1,13 @@
+AES_Encryption.v
+DFF_128.v
+Key.v
+lut2.v
+lut3.v
+Mix_Column.v
+mux.v
+MUX2_1.v
+Round_reg.v
+Sbox.v
+Shift_Rows.v
+Sub_Bytes.v
+Sub_Key.v
