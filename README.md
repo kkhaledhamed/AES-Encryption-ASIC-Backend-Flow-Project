@@ -193,5 +193,5 @@ A heartfelt thank you to my amazing teammates:
 ## 📜 License
 
 This project is part of a student academic internship and is intended for learning and research purposes only.  
-© Analog Devices, Inc. – 2025
+**© Analog Devices, Inc**. – 2025
 
